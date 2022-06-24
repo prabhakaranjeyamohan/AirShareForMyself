@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AirShareForMyself/static/css/main.f07ebfc1.css",
+    "main.js": "/AirShareForMyself/static/js/main.9d2b3426.js",
+    "static/media/Airshare.mp4": "/AirShareForMyself/static/media/Airshare.3491a70ec29d57dc8b53.mp4",
+    "static/media/Production Ready.png": "/AirShareForMyself/static/media/Production Ready.d365f068ef789aa71d71.png",
+    "static/media/DroneDefeat_v2.jpg": "/AirShareForMyself/static/media/DroneDefeat_v2.813e6508c83760e68482.jpg",
+    "static/media/Logo_100h.gif": "/AirShareForMyself/static/media/Logo_100h.2372c7c676e584b83d77.gif",
+    "static/media/AC2-TTP.jpg": "/AirShareForMyself/static/media/AC2-TTP.4a968c13fad51948f88c.jpg",
+    "static/media/IDLS.jpg": "/AirShareForMyself/static/media/IDLS.be46e5ddf3bf93a16c98.jpg",
+    "static/media/IGLS-4.jpg": "/AirShareForMyself/static/media/IGLS-4.873b9f9930d6072e653d.jpg",
+    "static/media/IGLS-9.jpg": "/AirShareForMyself/static/media/IGLS-9.9b9e1f638b57467784bc.jpg",
+    "static/media/CAS.jpg": "/AirShareForMyself/static/media/CAS.65b3cfc39a6fefeb59d8.jpg",
+    "static/media/AC2-ATAK.jpg": "/AirShareForMyself/static/media/AC2-ATAK.11c30eb4149698cbdd8a.jpg",
+    "static/media/2022 OVERWATCH PRICE LIST.pdf": "/AirShareForMyself/static/media/2022 OVERWATCH PRICE LIST.9c01ca944a7e6abb241c.pdf",
+    "static/media/IUX0C&D Dart.jpg": "/AirShareForMyself/static/media/IUX0C&D Dart.f4f6567873c84e07fb71.jpg",
+    "static/media/IUX0A&0B.jpg": "/AirShareForMyself/static/media/IUX0A&0B.ab41f3615d855a10ded8.jpg",
+    "static/media/AC2-IOS.jpg": "/AirShareForMyself/static/media/AC2-IOS.52bfd368ba7b0eaa0613.jpg",
+    "static/media/IALS.jpg": "/AirShareForMyself/static/media/IALS.c004f2d5dc68ffc99374.jpg",
+    "static/media/BSS.jpg": "/AirShareForMyself/static/media/BSS.15927ff201b6c3f92eab.jpg",
+    "static/media/splashpg_v1.jpg": "/AirShareForMyself/static/media/splashpg_v1.b7ea2610f90fe6cf65fe.jpg",
+    "index.html": "/AirShareForMyself/index.html",
+    "main.f07ebfc1.css.map": "/AirShareForMyself/static/css/main.f07ebfc1.css.map",
+    "main.9d2b3426.js.map": "/AirShareForMyself/static/js/main.9d2b3426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07ebfc1.css",
+    "static/js/main.9d2b3426.js"
+  ]
+}
